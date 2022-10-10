@@ -1,1 +1,1 @@
-Shell redirecting
+Write a script that prints “Hello, World”
